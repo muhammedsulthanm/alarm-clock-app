@@ -1,5 +1,3 @@
-@🙃 
-
 ⏰ Alarm Clock App using Python
 
 A modern, lightweight, and user-friendly Python-based Alarm Clock built using CustomTkinter, Datetime, Threading, and Pygame.
@@ -156,7 +154,3 @@ Muhammed Sulthan M (25BAI0234)
 
 
 ---
-
-📜 License
-
-This project is open-source under the MIT License.
